@@ -13,6 +13,7 @@
 		3F8CDA9D25F90A9E00748F2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F8CDA9C25F90A9E00748F2B /* Assets.xcassets */; };
 		3F8CDAA025F90A9E00748F2B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F8CDA9F25F90A9E00748F2B /* Preview Assets.xcassets */; };
 		3F8CDAA325F90A9E00748F2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F8CDAA125F90A9E00748F2B /* LaunchScreen.storyboard */; };
+		3F8CDAAB25F910CE00748F2B /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3F8CDAAA25F910CE00748F2B /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3F8CDA9F25F90A9E00748F2B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F8CDAA225F90A9E00748F2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F8CDAA425F90A9E00748F2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F8CDAAA25F910CE00748F2B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = "../../../../../Jared/HackingWithSwift-main/Classic/project5-files/start.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				3F8CDA9825F90A9D00748F2B /* SceneDelegate.swift */,
 				3F8CDA9A25F90A9D00748F2B /* ContentView.swift */,
 				3F8CDA9C25F90A9E00748F2B /* Assets.xcassets */,
+				3F8CDAAA25F910CE00748F2B /* start.txt */,
 				3F8CDAA125F90A9E00748F2B /* LaunchScreen.storyboard */,
 				3F8CDAA425F90A9E00748F2B /* Info.plist */,
 				3F8CDA9E25F90A9E00748F2B /* Preview Content */,
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F8CDAA325F90A9E00748F2B /* LaunchScreen.storyboard in Resources */,
+				3F8CDAAB25F910CE00748F2B /* start.txt in Resources */,
 				3F8CDAA025F90A9E00748F2B /* Preview Assets.xcassets in Resources */,
 				3F8CDA9D25F90A9E00748F2B /* Assets.xcassets in Resources */,
 			);
